@@ -1,0 +1,13 @@
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+
+*.rds
+*.log
+*.ipynb
+*.key
+
+/.quarto/

@@ -4,6 +4,7 @@
 .RDataTmp
 .Ruserdata
 .Rproj.user/
+.DS_Store
 
 *.rds
 *.log
